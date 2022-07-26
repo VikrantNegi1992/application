@@ -1,1 +1,2 @@
 This is File B.
+Thses are new changes in file b.
